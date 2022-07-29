@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+<!--
 ![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1pi&count_private=true&hide=contribs,prs,issues)
 
-<!--
+
 **V1pi/V1pi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
